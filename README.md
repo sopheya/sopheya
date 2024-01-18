@@ -19,6 +19,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sopheya&theme=dark&hide_border=true">
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sopheya&theme=dark">
 </div>
